@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ProdSuite">
+    <test name="Smoke Tests">
+        <classes>
+            <class name="Validations"/>
+        </classes>
+    </test>
+</suite>
